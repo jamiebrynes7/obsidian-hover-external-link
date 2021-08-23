@@ -2,6 +2,11 @@
 
 An [Obsidian](https://obsidian.md/) plugin that adds hover URL previews to external links in your rendered Markdown.
 
+## Demo
+
+https://user-images.githubusercontent.com/13353733/130523291-99b6c6c3-24f4-4729-b9ba-e4df464f0e65.mp4
+
+
 ## Installation
 
 ### From in Obsidian
